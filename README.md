@@ -1,2 +1,2 @@
 # Bake-My-Cake
-Single Page Application names As BAKE MY CAKE
+Single Page Application nameAs BAKE MY CAKE
